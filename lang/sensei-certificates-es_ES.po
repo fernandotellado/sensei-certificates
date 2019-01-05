@@ -1,0 +1,712 @@
+# Copyright (C) 2018 sensei-certificates
+# This file is distributed under the same license as the sensei-certificates package.
+msgid ""
+msgstr ""
+"Project-Id-Version: sensei-certificates\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-01-05 09:14+0100\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1\n"
+"Last-Translator: Fernando Tellado <fernando@tellado.es>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/post-types/certificate_templates.php:90
+msgid "Name"
+msgstr "Nombre"
+
+#: admin/post-types/certificate_templates.php:91
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/post-types/certificate_templates.php:131
+msgid "Draft"
+msgstr "Borrador"
+
+#: admin/post-types/certificate_templates.php:143
+msgid "Restore this item from the Trash"
+msgstr "Restaurar este elemento de la papelera"
+
+#: admin/post-types/certificate_templates.php:143
+msgid "Restore"
+msgstr "Restaurar"
+
+#: admin/post-types/certificate_templates.php:145
+msgid "Move this item to the Trash"
+msgstr "Mover este elemento a la papelera"
+
+#: admin/post-types/certificate_templates.php:145
+msgid "Trash"
+msgstr "Papelera"
+
+#: admin/post-types/certificate_templates.php:147
+msgid "Delete this item permanently"
+msgstr "Borrar este elemento permanentemente"
+
+#: admin/post-types/certificate_templates.php:147
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:75
+msgid "Default Font"
+msgstr "Fuente por defecto"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:81
+msgid "Default Font color"
+msgstr "Color de fuente por defecto"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:83
+msgid "The default text color for the certificate."
+msgstr "El color del texto por defecto para el certificado."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:92
+msgid "Heading Position"
+msgstr "Posición de la cabecera"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:94
+msgid "Optional position of the Certificate Heading"
+msgstr "Posición opcional de la cabecera del certificado"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:103,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:137,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:171,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:205,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:239
+msgid "Font"
+msgstr "Fuente"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:108,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:142,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:176,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:210,
+#: admin/post-types/writepanels/writepanel-certificate_data.php:244
+msgid "Font color"
+msgstr "Color de fuente"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:115
+msgid "Heading Text"
+msgstr "Texto de cabecera"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:116
+msgid "Text to display in the heading."
+msgstr "Texto a mostrar en la cabecera."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:117,
+#: classes/class-woothemes-sensei-certificate-templates.php:455,
+#: classes/class-woothemes-sensei-certificates.php:552,
+#: woothemes-sensei-certificates.php:305
+msgid "Certificate of Completion"
+msgstr "Certificado de finalización"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:126
+msgid "Message Position"
+msgstr "Posición del mensaje"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:128
+msgid "Optional position of the Certificate Message"
+msgstr "Posición opcional del mensaje del certificado"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:149
+msgid "Message Text"
+msgstr "Texto del mensaje"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:150
+msgid "Text to display in the message area."
+msgstr "Texto a mostrar en el área del mensaje."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:151
+msgid "This is to certify that {{learner}} has completed the course"
+msgstr "El presente certifica que {{learner}} ha completado el curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:160
+msgid "Course Position"
+msgstr "Posición del curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:162
+msgid "Optional position of the Course Name"
+msgstr "Posición opcional del nombre del curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:183
+msgid "Course Text"
+msgstr "Texto del curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:184
+msgid "Text to display in the course area."
+msgstr "Texto a mostrar en el área del curso."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:185,
+#: woothemes-sensei-certificates.php:319
+msgid "{{course_title}}"
+msgstr "{{course_title}}"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:194
+msgid "Completion Date Position"
+msgstr "Posición de la fecha de finalización"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:196
+msgid "Optional position of the Course Completion date"
+msgstr "Posición opcional de la fecha de finalización del curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:217
+msgid "Completion Date Text"
+msgstr "Texto de fecha de finalización"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:218
+msgid "Text to display in the course completion date area."
+msgstr "Texto a mostrar en el área de fecha de finalización del curso."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:219
+msgid "{{completion_date}}"
+msgstr "{{completion_date}}"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:228
+msgid "Place Position"
+msgstr "Posición del lugar"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:230
+msgid "Optional position of the place of Certification."
+msgstr "Posición opcional del lugar de certificación."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:251
+msgid "Course Place Text"
+msgstr "Texto del lugar del curso"
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:252
+msgid "Text to display in the course place area."
+msgstr "Texto a mostrar en el área del lugar del curso."
+
+#: admin/post-types/writepanels/writepanel-certificate_data.php:253,
+#: woothemes-sensei-certificates.php:333
+msgid "{{course_place}}"
+msgstr "{{course_place}}"
+
+#: admin/post-types/writepanels/writepanel-certificate_image.php:70,
+#: admin/post-types/writepanels/writepanel-certificate_image.php:70
+msgid "Set certificate image"
+msgstr "Establecer imagen del certificado"
+
+#: admin/post-types/writepanels/writepanel-certificate_image.php:71,
+#: admin/post-types/writepanels/writepanel-certificate_image.php:71
+msgid "Remove certificate image"
+msgstr "Quitar imagen del certificado"
+
+#: admin/post-types/writepanels/writepanel-course_data.php:66
+msgid "None"
+msgstr "Nada"
+
+#: admin/post-types/writepanels/writepanel-course_data.php:75
+msgid "No certificate template exist yet. Please add some first."
+msgstr ""
+"Aún no existe ninguna plantilla de certificado. Por favor, añade alguna "
+"primero."
+
+#: admin/post-types/writepanels/writepanels-init.php:72
+msgid ""
+"Certificate Background Image <small>&ndash; Used to lay out the certificate "
+"fields found in the Certificate Data box.</small>"
+msgstr ""
+"La imagen de fondo del certificado <small>&ndash; se utiliza para diseñar "
+"los campos del certificado que se encuentran en la caja de datos del "
+"certificado.</small>"
+
+#: admin/post-types/writepanels/writepanels-init.php:82,
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:150
+msgid "Certificate Data"
+msgstr "Datos del certificado"
+
+#: admin/post-types/writepanels/writepanels-init.php:92,
+#: admin/post-types/writepanels/writepanels-init.php:119
+msgid "Certificate Template"
+msgstr "Plantilla de certificado"
+
+#: admin/post-types/writepanels/writepanels-init.php:240
+msgid "Size"
+msgstr "Tamaño"
+
+#: admin/post-types/writepanels/writepanels-init.php:242
+msgid "Bold"
+msgstr "Negrita"
+
+#: admin/post-types/writepanels/writepanels-init.php:246
+msgid "Italic"
+msgstr "Cursiva"
+
+#: admin/post-types/writepanels/writepanels-init.php:252
+msgid "Center Align"
+msgstr "Alineación centrada"
+
+#: admin/post-types/writepanels/writepanels-init.php:256
+msgid "Border"
+msgstr "Borde"
+
+#: admin/post-types/writepanels/writepanels-init.php:310,
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:226
+msgid "Set Position"
+msgstr "Establecer posición"
+
+#: admin/post-types/writepanels/writepanels-init.php:310
+msgid "Remove Position"
+msgstr "Quitar posición"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:110
+msgid "Overview"
+msgstr "Vista previa"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:111
+msgid ""
+"The Sensei Certificates extension allows you to create and configure "
+"customizable certificate templates which can be attached to Sensei Courses.  "
+"Your learners will earn a Certificate which they can download and share with "
+"others once they have completed a course."
+msgstr ""
+"La extensión certificados de Sensei te permite crear y configurar plantillas "
+"de certificados personalizables que se pueden adjuntar a los cursos de "
+"Sensei.  Tus estudiantes obtendrán un certificado que podrán descargar y "
+"compartir con otros una vez que hayan completado un curso."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:116
+msgid "Editing a Certificate"
+msgstr "Editar un certificado"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:122
+msgid "Certificates List"
+msgstr "Lista de certificados"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:123
+msgid ""
+"From the list view you can review all your certificate templates, quickly "
+"see the name, primary default image and its data, and trash a certificate "
+"template."
+msgstr ""
+"En la vista de lista puedes revisar todas las plantillas de certificado, ver "
+"rápidamente el nombre, la imagen predeterminada principal y sus datos, y la "
+"papelera de una plantilla de certificado."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:128
+msgid "How To"
+msgstr "Instrucciones"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:133
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:134
+msgid "Certificates Docs"
+msgstr "Documentación sobre certificados"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:148
+msgid "Certificate Name"
+msgstr "Nombre del certificado"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:148
+msgid ""
+"All certificate templates must be given a name.  This will be used to "
+"identify the certificate within the admin."
+msgstr ""
+"Se debe dar un nombre a todas las plantillas de certificado.  Esto se "
+"utilizará para identificar el certificado dentro de la administración."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:149
+msgid "Certificate Background Image"
+msgstr "Imagen de fondo del certificado"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:149
+msgid ""
+"This is the main image for your certificate, and will be used to configure "
+"the layout of the various text fields defined in the Certificate Data panel."
+msgstr ""
+"Esta es la imagen principal de tu certificado y se utilizará para configurar "
+"el diseño de los distintos campos de texto definidos en el panel datos de "
+"certificado."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:150
+msgid ""
+"These configuration options allow you to specify exactly where various text "
+"fields will be displayed on your certificate, as well as the font used.  For "
+"instance, if you want the message displayed on your certificate, click the "
+"\"Set Position\" button next to \"Message Position\".  Then select the area "
+"of the Certificate Image where you want the message to be displayed."
+msgstr ""
+"Estas opciones de configuración te permiten especificar exactamente donde "
+"aparecerá varios campos de texto en tu certificado, así como la fuente "
+"utilizada. Por ejemplo, si deseas que el mensaje aparezca en tu certificado, "
+"haz clic en el botón «Establecer posición» junto a «Posición del mensaje«.  "
+"Selecciona el área de la imagen del certificado donde desees que se muestre "
+"el mensaje."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:151
+msgid ""
+"You can define a default font, size, style and color to be used for the "
+"certificate text fields.  For each individual text field, you can override "
+"these defaults by setting a specific font/style, size or color.  Note that "
+"the default font style (Italic/Bold) will only be used if a font is not "
+"selected at the field level."
+msgstr ""
+"Puedes definir una fuente, un tamaño, un estilo y un color predeterminados "
+"que se utilizarán para los campos de texto del certificado.  Para cada campo "
+"de texto individual, puedes anular estos valores predeterminados "
+"estableciendo una fuente/estilo, tamaño o color específicos.  Ten en cuenta "
+"que el estilo de fuente predeterminado (cursiva/negrita) sólo se utilizará "
+"si una fuente no está seleccionada en el campo."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:152
+msgid "Previewing"
+msgstr "Previsualizando"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:152
+msgid ""
+"You must update the certificate template to see any changes in the Preview."
+msgstr ""
+"Debes actualizar la plantilla del certificado para ver los cambios en la "
+"vista previa."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:166
+msgid "How to Create Your First Certificate Template "
+msgstr "Cómo creare tu primera plantilla de certificado "
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:168
+msgid ""
+"First go to Sensei &gt; Certificate Templates and click \"Add Certificate "
+"Template\" to add a template"
+msgstr ""
+"Primero ve a «Sensei &gt; Plantillas de certificado» y haz clic en «Añadir "
+"plantilla de certificado» para añadir una plantilla"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:169
+msgid ""
+"Set a Certificate Name, and Certificate Background Image.  Optionally "
+"configure and add some Certificate Data fields (see the \"Editing a "
+"Certificate\" section for more details)"
+msgstr ""
+"Define un nombre de certificado y una imagen de fondo del certificado. "
+"Opcionalmente configura y añade algunos campos de datos del certificado (ver "
+"la sección «Editar un certificado» parea más detalles)"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:170
+msgid ""
+"Next click \"Publish\" to save your certificate template.  You can also "
+"optionally \"Preview\" the certificate to check your work and field layout."
+msgstr ""
+"Luego haz clic en «Publicar» para guardar tu plantilla de certificado. "
+"También puedes, opcionalmente, hacer una «Vista previa» del certificado para "
+"revisar tu trabajo y el diseño de los campos."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:171
+msgid ""
+"Next go to Sensei &gt; All Courses and either create a new course or edit an "
+"existing one, and assigning the template you created to the course."
+msgstr ""
+"A continuación ve a «Sensei &gt; Todos los cursos» y crea un nuevo curso o "
+"edita uno existente, y asigna la plantilla que has creado al curso."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:172
+msgid ""
+"Your learners can now earn a Certificate when they have completed a course! "
+"Your existing learners who have already completed a course will "
+"automatically have certificates generated for them when you installed the "
+"plugin."
+msgstr ""
+"¡Tus estudiantes ahora pueden obtener un certificado cuando completen un "
+"curso! Tus estudiantes actuales que ya hayan completado un curso tendrán "
+"certificados creados para cada uno desde el momento en que instalaste el "
+"plugin. "
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:225
+msgid "Done"
+msgstr "Hecho"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:261,
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:264,
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:266
+msgid "Certificate Template updated."
+msgstr "Plantilla de certificado actualizada."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:262
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:263
+msgid "Custom field deleted."
+msgstr "Campo personalizado borrado."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:265
+msgid "Certificate Template restored to revision from %s"
+msgstr "Plantilla de certificado restaurada a la revisión de %s"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:267
+msgid "Certificate Template saved."
+msgstr "Plantilla de certificado guardada."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:268
+msgid "Certificate Template submitted."
+msgstr "Plantilla de certificado enviada."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:269
+msgid "Certificate Template scheduled for: <strong>%1$s</strong>."
+msgstr "Plantilla de certificado programada para: <strong>%1$s</strong>."
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:270
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ G:i"
+
+#: admin/woothemes-sensei-certificate-templates-admin-init.php:271
+msgid "Certificate Template draft updated."
+msgstr "Borrador de  plantilla de certificado actualizado."
+
+#: classes/class-woothemes-sensei-certificate-templates.php:145
+msgctxt "post type general name"
+msgid "Certificate Templates"
+msgstr "Plantillas de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:146
+msgctxt "post type singular name"
+msgid "Certificate Template"
+msgstr "Plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:147
+msgctxt "post type add_new"
+msgid "Add New Certificate Template"
+msgstr "Añadir nueva plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:148
+msgid "Add New Certificate Template"
+msgstr "Añadir nueva plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:149
+msgid "Edit Certificate Template"
+msgstr "Editar plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:150
+msgid "New Certificate Template"
+msgstr "Nueva plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:151,
+#: classes/class-woothemes-sensei-certificate-templates.php:157
+msgid "Certificate Templates"
+msgstr "Plantillas de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:152
+msgid "View Certificate Template"
+msgstr "Ver plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:153
+msgid "Search Certificate Templates"
+msgstr "Buscar plantillas de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:154
+msgid "No certificate templates found"
+msgstr "No se han encontrado plantillas de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:155
+msgid "No certificate templates found in Trash"
+msgstr "No hay plantillas de certificado en la papelera"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:187,
+#: classes/class-woothemes-sensei-certificates.php:305
+msgid "Learner"
+msgstr "Estudiante"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:188,
+#: classes/class-woothemes-sensei-certificates.php:306
+msgid "Course"
+msgstr "Curso"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:189,
+#: classes/class-woothemes-sensei-certificates.php:307
+msgid "Date Completed"
+msgstr "Fecha de finalización"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:190,
+#: classes/class-woothemes-sensei-certificates.php:308
+msgid "Actions"
+msgstr "Acciones"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:224,
+#: classes/class-woothemes-sensei-certificates.php:268,
+#: classes/class-woothemes-sensei-certificates.php:346,
+#: classes/class-woothemes-sensei-certificates.php:792,
+#: classes/class-woothemes-sensei-certificates.php:896,
+#: classes/class-woothemes-sensei-certificates.php:896
+msgid "View Certificate"
+msgstr "Ver certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:429
+msgid "Course Title"
+msgstr "Título del curso"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:463,
+#: classes/class-woothemes-sensei-certificates.php:559,
+#: woothemes-sensei-certificates.php:312
+msgid "This is to certify that"
+msgstr "El presente certifica que"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:463,
+#: classes/class-woothemes-sensei-certificates.php:559,
+#: woothemes-sensei-certificates.php:312
+msgid "has completed the course"
+msgstr "ha completado el curso"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:487,
+#: classes/class-woothemes-sensei-certificates.php:583
+msgid "At %s"
+msgstr "En %s"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:823
+msgid "$meta_name"
+msgstr "$meta_name"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:879
+msgctxt "column name"
+msgid "Certificate Template"
+msgstr "Plantilla de certificado"
+
+#: classes/class-woothemes-sensei-certificate-templates.php:906
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: classes/class-woothemes-sensei-certificates.php:203
+msgid "Certificate Settings"
+msgstr "Ajustes de certificados"
+
+#: classes/class-woothemes-sensei-certificates.php:204
+msgid "Options for the Certificate Extension."
+msgstr "Opciones de la extensión de certificados."
+
+#: classes/class-woothemes-sensei-certificates.php:222
+msgid "View in Courses"
+msgstr "Ver en cursos"
+
+#: classes/class-woothemes-sensei-certificates.php:223
+msgid ""
+"Show a View Certificate link in the single Course page and the My Courses "
+"page."
+msgstr ""
+"Muestra un enlace para ver el certificado en la página del curso y en la "
+"página de «Mis cursos»."
+
+#: classes/class-woothemes-sensei-certificates.php:230
+msgid "View in Learner Profile"
+msgstr "Ver en el perfil del estudiante"
+
+#: classes/class-woothemes-sensei-certificates.php:231
+msgid "Show a View Certificate link in the Learner Profile page."
+msgstr ""
+"Muestra un enlace para ver el certificado en la página del perfil del "
+"estudiante."
+
+#: classes/class-woothemes-sensei-certificates.php:238
+msgid "Public Certificate"
+msgstr "Certificado público"
+
+#: classes/class-woothemes-sensei-certificates.php:239
+msgid ""
+"Allow the Learner to share their Certificate with the public. (The learner "
+"will have to enable this in their profile by going to mysite.com/learner/"
+"{learner_username})"
+msgstr ""
+"Permite al estudiante compartir su certificado públicamente. (El estudiante "
+"tendrá que activar esto en su perfil yendo a dominio.com/estudiante/"
+"{learner_username})"
+
+#: classes/class-woothemes-sensei-certificates.php:261
+msgctxt "post type general name"
+msgid "Certificates"
+msgstr "Certificados"
+
+#: classes/class-woothemes-sensei-certificates.php:262
+msgctxt "post type singular name"
+msgid "Certificate"
+msgstr "Certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:263
+msgctxt "post type add_new"
+msgid "Add New Certificate"
+msgstr "Añadir nuevo certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:264
+msgid "Add New Certificate"
+msgstr "Añadir nuevo certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:265
+msgid "Edit Certificate"
+msgstr "Editar certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:266
+msgid "New Certificate"
+msgstr "Nuevo certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:267,
+#: classes/class-woothemes-sensei-certificates.php:273
+msgid "Certificates"
+msgstr "Certificados"
+
+#: classes/class-woothemes-sensei-certificates.php:269
+msgid "Search Certificates"
+msgstr "Buscar certificados"
+
+#: classes/class-woothemes-sensei-certificates.php:270
+msgid "No certificates found"
+msgstr "No se han encontrado certificados"
+
+#: classes/class-woothemes-sensei-certificates.php:271
+msgid "No certificates found in Trash"
+msgstr "No hay certificados en la papelera"
+
+#: classes/class-woothemes-sensei-certificates.php:463
+msgid "You are not allowed to view this Certificate."
+msgstr "No tienes permisos para ver este certificado."
+
+#: classes/class-woothemes-sensei-certificates.php:463,
+#: classes/class-woothemes-sensei-certificates.php:613
+msgid "Certificate Error"
+msgstr "Error en el certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:613
+msgid "The certificate you are searching for does not exist."
+msgstr "El certificado que estás buscando no existe."
+
+#: classes/class-woothemes-sensei-certificates.php:870
+msgid "Certificate"
+msgstr "Certificado"
+
+#: classes/class-woothemes-sensei-certificates.php:1065
+msgid "Allow my Certificates to be publicly viewed"
+msgstr "Permitir que mis certificados se vean públicamente"
+
+#: classes/class-woothemes-sensei-certificates.php:1065
+msgid "Save"
+msgstr "Guardar"
+
+#: classes/class-woothemes-sensei-certificates.php:1099
+msgid "Your Certificates Public View Settings Saved Successfully."
+msgstr ""
+"Tus ajustes de vista pública de certificados se han guardado con éxito."
+
+#: templates/single-certificate_template.php:32
+msgid ""
+"You must set a certificate_template primary image before you can preview"
+msgstr ""
+"Debes definir una imagen de plantilla de certificado principal antes de "
+"poder previsualizar"
+
+#: woothemes-sensei-certificates.php:259
+msgid "Example Template"
+msgstr "Plantilla de ejemplo"
+
+#: woothemes-sensei-certificates.php:269
+msgid "Sensei Certificate Template Example"
+msgstr "Ejemplo de plantilla de certificado Sensei"
+
+#: woothemes-sensei-certificates.php:326
+msgid "{{completion_date}} at {{course_place}}"
+msgstr "{{completion_date}} en {{course_place}}"
